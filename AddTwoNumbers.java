@@ -7,15 +7,8 @@
  * *************************************************************************/
 public class AddTwoNumbers {
 	public static void main (String[] args) {
-		int number1=10,number2=7,difference,multiplication;
-		float division;
+		int number1=10,number2=7;
         int sum=number1+number2;
-        difference=number1-number2;
-        multiplication=number1*number2;
-        division=(float)number1/number2;
         System.out.println("Sum="+sum);
-        System.out.println("Difference="+difference);
-        System.out.println("Multiplication="+multiplication);
-        System.out.println("Division="+division);
 }
 }
