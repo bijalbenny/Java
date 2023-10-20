@@ -1,3 +1,10 @@
+/***************************************************************************
+ * File          :          AbstractClass.java
+ * Descriptiopn  :          To understand polymorphism
+ * Author        :          Bijal T Benny
+ * Version       :          1.0
+ * Date          :          20/10/2023
+ * *************************************************************************/
 import java.util.*;
 public class AbstractClass {
 	public static void main(String[] args) {
