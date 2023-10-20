@@ -8,7 +8,6 @@
 import java.util.*;
 public class AbstractClass {
 	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
 		Rectangle rectangle = new Rectangle();
 		Triangle triangle = new Triangle();
 		Hexagon hexagon = new Hexagon();
