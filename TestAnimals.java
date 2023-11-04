@@ -95,9 +95,6 @@ public class TestAnimals {
 		   System.out.println("THis cat's name is "+cat.getName());
 		   System.out.println("SPIDER");
 		   spider.walk();
-		   spider.eat();
-		   
-	}
-   
-   
+		   spider.eat();	   
+	}   
 }
