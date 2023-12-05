@@ -36,7 +36,7 @@ public class DoublyLinkedListDemo {
 			+"3.Insertion At any position\n"
 			+"4.Deletion at any Position\n"
 			+"5. Display\n"
-			+"Exit\n");
+			+"6.Exit\n");
 		int choice = sc.nextInt();
 		int element,position;
 		switch(choice) {
